@@ -1,6 +1,6 @@
 # COMP304_Project1
-Ece Pınar Özer 72047  <br>
-Yiğit Yakar 72269
+Ece Pınar Özer   <br>
+Yiğit Yakar 
 
 Important notes about our project:
 
